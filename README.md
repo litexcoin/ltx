@@ -1,5 +1,8 @@
 #### Ltx Core Wallet
 
+
+**** New Dev Team Announcement Coming Soon!!! **** 
+
 LITEX Specifications
 
 Ticker: LTX
