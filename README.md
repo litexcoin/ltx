@@ -12,6 +12,8 @@ On, or before, September 1, 2018 we will be releasing:
 
 **** Update **** 
 
+Trading @ https://wallet.crypto-bridge.org/market/BRIDGE.LTX_BRIDGE.BTC
+
 LITEX Specifications
 
 Ticker: LTX
