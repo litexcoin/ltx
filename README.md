@@ -2,13 +2,8 @@
 
 **** Update **** 
 
-On, or before, September 1, 2018 we will be releasing:
-1. Updated website and block explorer
-2. Updated road map
-3. White Paper draft
-4. Bounty Program details
-5. Details for community participation
-6. Updated Masternode setup guide and script
+https://www.litexcoin.com/
+More soon WIP
 
 **** Update **** 
 
